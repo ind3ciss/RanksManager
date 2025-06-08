@@ -1,0 +1,11 @@
+{
+  "owner": "VOTRE ID",
+  "presence": {
+    "status": "online",
+    "activity": {
+      "name": "en train de gérer vos tickets !",
+      "type": "Playing",
+      "url": "https://twitch.tv/your_channel"
+    }
+  }
+}
